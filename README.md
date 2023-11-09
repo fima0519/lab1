@@ -3,6 +3,7 @@ doing cse412 first lab about github and git.
 
 
 
+
 #This is branch1
 
 
@@ -10,4 +11,8 @@ doing cse412 first lab about github and git.
 
 #welcome to ewu
 # this is branch1.....
+
+
+#welcome to cse
+#this is branch2
 
